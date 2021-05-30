@@ -1,3 +1,3 @@
-I joined the Data Analyst course of Udacity. And this project is the Test project "Analyze A/B Test Results" of "Part 3: Practical Statistics". 
+I joined the Data Analyst course of Udacity. And this project is the Test project "Analyze A/B Test Results" of "Part 3: Practical Statistics".
 
-I have perfromed data gathering, assess, data clean up, perform hypothesis testing and draw the conclusions based on my understanding. By using AB Testing and regression methods to decide if the company should launch a new webpage or keep the old one.
+I have performed data gathering, assessment, and data clean up, performed hypothesis testing, and drew conclusions based on my understanding by using AB Testing and regression methods to decide if the company should launch a new web page or keep the old one.
